@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 import array
 import logging
-import os
+import os coba aja
 import sys
 import time
 import struct
